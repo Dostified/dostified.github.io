@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mukeshsaw.msxerox",
+      "sha256_cert_fingerprints": [
+        "B4:15:AB:AC:F2:D0:85:C3:55:47:A6:B8:42:77:76:94:0A:A7:09:B2:00:18:36:FE:A8:C0:38:7E:D1:05:65:04"
+      ]
+    }
+  }
+]
